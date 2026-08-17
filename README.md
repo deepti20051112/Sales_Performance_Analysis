@@ -48,6 +48,9 @@ The Power BI dashboard includes:
 - Top 10 Products by Sales
 - Region and Category filters
 - Date filters
+- ### Dashboard Preview
+
+![Sales Performance Dashboard](Sales_Performance_Dashboard.png)
 
 ## 🔍 Key Results
 
